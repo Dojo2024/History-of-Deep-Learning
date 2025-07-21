@@ -1,6 +1,6 @@
 # History-of-Deep-Learning
 
-A curated and hands-on collection of seminal deep learning architectures and research papers that shaped the field of Computer Vision and Natural Language Processing. This repository provides organized code, notes, and implementations for key breakthroughs, intended for deep learning learners, researchers, and enthusiasts.
+This repository contains implementations of landmark deep learning papers across various domains:
 
 
 | Paper / Architecture                                                         | Year | Contribution                                                                    |
